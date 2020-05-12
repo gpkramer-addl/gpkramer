@@ -23,6 +23,7 @@ if (!mysqli_query($con,$sql))
 { die('Error: ' . mysqli_error($con)); }
 
 mysqli_close($con);
+header('Location:http://cgi.sice.indiana.edu/~gpkramer/employee_info.php')
 
 
 ?>
