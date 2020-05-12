@@ -1,13 +1,8 @@
-.title {
-  color: red;
+.info {
+  color: white;
+  text-align: center;
+  font-size: 40px;
 }
 body {
   background-color: blue;
-}
-
-
-.info {
-  font-size: 40px;
-  color: white;
-  text-align: justify;
 }
