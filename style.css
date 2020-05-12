@@ -6,8 +6,13 @@ body {
 }
 
 .intro {
-  color: black
+  color: white;
   text-align:center;
   font-size: 30px;
 
+}
+
+.info {
+  color: white;
+  text-align: center;
 }
