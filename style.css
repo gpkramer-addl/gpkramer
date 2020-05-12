@@ -4,11 +4,14 @@ title {
   font-size: 50px;
 }
 
+
+
+body {
+  background: rgba(0, 255, 255, 0.5);
+}
+
 .info {
   color: white;
   text-align: center;
   font-size: 30px;
-}
-body {
-  background: rgba(0, 255, 255, 0.5);
 }
