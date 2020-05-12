@@ -10,6 +10,5 @@ title {
   font-size: 30px;
 }
 body {
-  background-color: blue;
-  opacity: .5;
+  background: rgba(0, 128, 0, 0.3);
 }
